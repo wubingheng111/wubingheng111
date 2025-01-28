@@ -29,3 +29,7 @@
 - Programming Language: **Python**, C# ,java script
 - Typesetting Language: **LaTeX**, Markdown
 - Programming Framework: **PyTorch**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wubingheng111&layout=compact" />
+
+<img align="bottom" src="https://komarev.com/ghpvc/?username=wubingheng111" alt="losercheems" />
