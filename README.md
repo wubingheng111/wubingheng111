@@ -21,7 +21,6 @@
 - Large Language Models
 - Small Language Models
 - Foundation Models
-- Deep Reinforcement Learning
 
 
 ## Skills ⚒️
